@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body {
+    background:#e6e6;
+    width: auto;
+    height: auto;
+    margin: 10, 10, 10, 10;
+}
+
